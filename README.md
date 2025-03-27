@@ -47,7 +47,7 @@ The project is built using the following technologies:
 
 **1. Clone current repository on your local machine:**
 ```
-
+https://github.com/LeatherDiamond/selenium-scrapers.git
 ```
 
 **2. Activate virtual environment in the root directory of the project:**
@@ -72,4 +72,4 @@ python farnell_links_collect.py
 
 # Licence
 
-**This project is licensed under the Apache-2.0 license - see the [LICENSE]() file for details.**
+**This project is licensed under the Apache-2.0 license - see the [LICENSE](https://github.com/LeatherDiamond/selenium-scrapers?tab=Apache-2.0-1-ov-file) file for details.**
