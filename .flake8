@@ -1,0 +1,16 @@
+[flake8]
+
+max-line-length = 160
+max_cognitive_complexity = 17
+
+exclude =
+    .artifacts
+    .git
+    .idea
+    .local
+    .venv
+    .vscode
+    *.txt
+    *.xlsx
+    user_data
+    cookies.josn

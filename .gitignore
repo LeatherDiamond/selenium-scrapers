@@ -1,0 +1,6 @@
+cookies.json
+.local/
+user_data/
+*.txt
+*.xlsx
+.env
